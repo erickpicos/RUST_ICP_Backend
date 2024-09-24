@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/CanisterRUST_backend"
+]
+resolver = "2"
